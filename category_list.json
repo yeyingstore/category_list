@@ -1,0 +1,4510 @@
+{
+  "categories": [
+    {
+      "id": "CAT-SHOES",
+      "key": "shoes",
+      "name": "shoes",
+      "children": [
+        {
+          "id": "CAT-SHOES-NIKE",
+          "name": "nike",
+          "children": [
+            {
+              "id": "CAT-SHOES-NIKE-TRAVIS-SCOTT",
+              "name": "travis scott",
+              "children": [],
+              "search_words": [
+                "scott",
+                "travis scott"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-SB-DUNK",
+              "name": "Nike SB Dunk",
+              "children": [],
+              "search_words": [
+                "dunk"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-WMNS-AIR-FORCE-1-SHADOW",
+              "name": "NIKE WMNS Air Force 1 Shadow",
+              "children": [],
+              "search_words": [
+                "force shadow",
+                "force 1 shadow",
+                "shadow"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-FORCE-1",
+              "name": "NIKE AIR FORCE 1",
+              "children": [],
+              "search_words": [
+                "air force",
+                "af1",
+                "force"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-ALPHAFLY-NEXT",
+              "name": "Nike Air Zoom Alphafly Next",
+              "children": [],
+              "search_words": [
+                "alphafly next"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-ZOOMX-STREAKFLY",
+              "name": "Nike Zoomx Streakfly",
+              "children": [],
+              "search_words": [
+                "zoomx streakfly",
+                "streakfly"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-PEGASUS",
+              "name": "Nike Air Zoom Pegasus",
+              "children": [],
+              "search_words": [
+                "zoom pegasus",
+                "pegasus"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-WMNS-AIR-MORE-UPTEMPO",
+              "name": "Nike WMNS Air More Uptempo",
+              "children": [],
+              "search_words": [
+                "uptempo"
+              ],
+              "weight": "1.2"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-REACTX-REJUVEN8",
+              "name": "Nike ReactX Rejuven8",
+              "children": [],
+              "search_words": [
+                "rejuven"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-COURT-VISION-LO",
+              "name": "NIKE COURT VISION LO",
+              "children": [],
+              "search_words": [
+                "court",
+                "court vision"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-WINFLO",
+              "name": "Nike Air Zoom Winflo",
+              "children": [],
+              "search_words": [
+                "winflo"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-97",
+              "name": "Nike Air Max 97",
+              "children": [],
+              "search_words": [
+                "max 97"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-95-TT",
+              "name": "NIKE AIR MAX 95 TT",
+              "children": [],
+              "search_words": [
+                "max 95"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-VAPORMAX",
+              "name": "Nike Air VaporMax",
+              "children": [],
+              "search_words": [
+                "vapormax"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-SACAI-X-NIKE-LDWAFFLE",
+              "name": "Sacai x Nike Ldwaffle",
+              "children": [],
+              "search_words": [
+                "sacai"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-V2K-RUN",
+              "name": "NIKE V2K RUN",
+              "children": [],
+              "search_words": [
+                "v2k run",
+                "v2k"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-FOAMPOSITE-PRO",
+              "name": "NIKE AIR FOAMPOSITE PRO",
+              "children": [],
+              "search_words": [
+                "foamposite"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-DN",
+              "name": "NIKE AIR MAX DN",
+              "children": [],
+              "search_words": [
+                "max dn8",
+                "dn8",
+                "max dn"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-CLASSIC-CORTEZ",
+              "name": "Nike Classic Cortez",
+              "children": [],
+              "search_words": [
+                "cortez"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-VOMERO-18",
+              "name": "Nike VOMERO 18",
+              "children": [],
+              "search_words": [
+                "vomero 18"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-WMNS-BLAZER",
+              "name": "NIKE WMNS Blazer",
+              "children": [],
+              "search_words": [
+                "blazer"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-270",
+              "name": "NiKe Air Max 270",
+              "children": [],
+              "search_words": [
+                "max 270"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-JORDAN-6-RETRO",
+              "name": "Nike Air Jordan 6 Retro",
+              "children": [],
+              "search_words": [
+                "jordan 6",
+                "aj6"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-BW-OG",
+              "name": "Nike Air Max BW OG",
+              "children": [],
+              "search_words": [
+                "max bw"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-1",
+              "name": "Nike Air Max 1",
+              "children": [],
+              "search_words": [
+                "max 1"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-RIVAL-FLY-4",
+              "name": "NIKE AIR ZOOM RIVAL FLY 4",
+              "children": [],
+              "search_words": [
+                "rival fly 4",
+                "fly 4"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-SHOX",
+              "name": "NIKE SHOX",
+              "children": [],
+              "search_words": [
+                "shox"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-SB-FORCE-58",
+              "name": "Nike SB Force 58",
+              "children": [],
+              "search_words": [
+                "sb force",
+                "force 58"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-P-6000-INITIATOR-RUNNING",
+              "name": "Nike P-6000 Initiator Running",
+              "children": [],
+              "search_words": [
+                "p-6000",
+                "initiator running",
+                "initiator",
+                "p 6000",
+                "p6000"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-COURT-BOROUGH-LOW",
+              "name": "NIKE COURT BOROUGH LOW",
+              "children": [],
+              "search_words": [
+                "court borough"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-V5-RNR",
+              "name": "Nike V5 RNR",
+              "children": [],
+              "search_words": [
+                "v5 rnr"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-JORDAN-CMFT-ERA",
+              "name": "Nike Air Jordan CMFT Era",
+              "children": [],
+              "search_words": [
+                "jordan cmft"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-ZOOM-REACT-INFINITY-RN",
+              "name": "Nike Zoom React Infinity Rn",
+              "children": [],
+              "search_words": [
+                "infinity rn"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-90",
+              "name": "Nike Air Max 90",
+              "children": [],
+              "search_words": [
+                "max 90"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-GT-HUSTLE",
+              "name": "Nike Air Zoom GT Hustle",
+              "children": [],
+              "search_words": [
+                "gt hustle"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-FIELD-GENERAL",
+              "name": "NIKE FIELD GENERAL",
+              "children": [],
+              "search_words": [
+                "general"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-JORDAN-LEGACY-AJ312",
+              "name": "Nike Air Jordan Legacy AJ312",
+              "children": [],
+              "search_words": [
+                "legacy 312"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-FREE-2025",
+              "name": "Nike Free 2025",
+              "children": [],
+              "search_words": [
+                "free 2025"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-ZOOM-VOMERO-ROAM",
+              "name": "Nike Zoom Vomero Roam",
+              "children": [],
+              "search_words": [
+                "vomero roam"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-FIRE",
+              "name": "Nike Air Max fire",
+              "children": [],
+              "search_words": [
+                "max fire"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-JORDAN-3",
+              "name": "Nike Air Jordan 3",
+              "children": [],
+              "search_words": [
+                "jordan 3",
+                "aj3"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-JA",
+              "name": "Nike JA",
+              "children": [],
+              "search_words": [
+                "Nike JA"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-PLUS",
+              "name": "Nike Air Max Plus",
+              "children": [],
+              "search_words": [
+                "max plus"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-SCORPION-FLYKNIT",
+              "name": "Nike Air Max Scorpion Flyknit",
+              "children": [],
+              "search_words": [
+                "scorpion flyknit",
+                "scorpion"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-HYPERDUNK-2017",
+              "name": "Nike Hyperdunk 2017",
+              "children": [],
+              "search_words": [
+                "hyperdunk 2017"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-REACTX-PEGASUS-TRAIL-2026",
+              "name": "Nike REACTX PEGASUS TRAIL 2026",
+              "children": [],
+              "search_words": [
+                "pegasus trail 2026",
+                "pegasus trail"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-WAFFLE",
+              "name": "Nike Air Max Waffle",
+              "children": [],
+              "search_words": [
+                "max waffle"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-AXIS",
+              "name": "Nike Air Max Axis",
+              "children": [],
+              "search_words": [
+                "max axis"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-QUEST-6",
+              "name": "Nike Quest 6",
+              "children": [],
+              "search_words": [
+                "quest 6"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-PACIFIC",
+              "name": "Nike Pacific",
+              "children": [],
+              "search_words": [
+                "nike pacific",
+                "pacific"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-ROSHE-RUN",
+              "name": "Nike Roshe Run",
+              "children": [],
+              "search_words": [
+                "roshe run"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-DAWN",
+              "name": "Nike Air Max Dawn",
+              "children": [],
+              "search_words": [
+                "max dawn"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-ZOOM-ULTRAFLY-NEXT",
+              "name": "NIKE ZOOM ULTRAFLY NEXT",
+              "children": [],
+              "search_words": [
+                "ultrafly next"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-2013",
+              "name": "Nike Air Max 2013",
+              "children": [],
+              "search_words": [
+                "max 2013"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-MAX-TL",
+              "name": "Nike AIR MAX TL",
+              "children": [],
+              "search_words": [
+                "max tl"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-TANJUN",
+              "name": "Nike Tanjun",
+              "children": [],
+              "search_words": [
+                "nike tanjun"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM-UPTURN",
+              "name": "Nike Air Zoom Upturn",
+              "children": [],
+              "search_words": [
+                "upturn"
+              ],
+              "weight": "1.1"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE-AIR-ZOOM",
+              "name": "Nike Air Zoom",
+              "children": [],
+              "search_words": [
+                "zoom"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-NIKE-NIKE",
+              "name": "nike",
+              "children": [],
+              "search_words": [
+                "nike"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-ADIDAS",
+          "name": "adidas",
+          "children": [
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-SAMBA-OG",
+              "name": "Adidas Samba OG",
+              "children": [],
+              "search_words": [
+                "samba",
+                "adidas&samba"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-GAZELLE-BOLD-W",
+              "name": "Adidas Gazelle Bold W",
+              "children": [],
+              "search_words": [
+                "bold"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-GAZELLE",
+              "name": "Adidas Originals Gazelle",
+              "children": [],
+              "search_words": [
+                "gazelle"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-HANDBALL-SPEZIAL",
+              "name": "Adidas Handball Spezial",
+              "children": [],
+              "search_words": [
+                "spezial"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ULTRABOOST-LIGHT",
+              "name": "Adidas Ultraboost Light",
+              "children": [],
+              "search_words": [
+                "ultraboost"
+              ],
+              "weight": "0.86"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-FORUM-84-LOW",
+              "name": "adidas Forum 84 Low",
+              "children": [],
+              "search_words": [
+                "forum"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ADIZERO-EVO",
+              "name": "Adidas Adizero Evo",
+              "children": [],
+              "search_words": [
+                "adizero"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-CAMPUS-00S",
+              "name": "Adidas Originals Campus 00s",
+              "children": [],
+              "search_words": [
+                "campus"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-SL-72",
+              "name": "adidas Originals SL 72",
+              "children": [],
+              "search_words": [
+                "sl 72"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-TOKYO-W",
+              "name": "Adidas Tokyo W",
+              "children": [],
+              "search_words": [
+                "tokyo w"
+              ],
+              "weight": "0.7"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-ADIFOM-SUPERSTAR-MULE",
+              "name": "Adidas Originals AdiFOM Superstar Mule",
+              "children": [],
+              "search_words": [
+                "adifom"
+              ],
+              "weight": "0.95"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-TAEKWONDO",
+              "name": "Adidas Originals Taekwondo",
+              "children": [],
+              "search_words": [
+                "taekwondo"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-BARREDA-DECODE",
+              "name": "Adidas BARREDA DECODE",
+              "children": [],
+              "search_words": [
+                "barreda"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-SHADOWTURF",
+              "name": "Adidas Originals Shadowturf",
+              "children": [],
+              "search_words": [
+                "shadowturf"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ASPYRE",
+              "name": "Adidas  Aspyre",
+              "children": [],
+              "search_words": [
+                "aspyre"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-SUPERSTAR",
+              "name": "Adidas Originals Superstar",
+              "children": [],
+              "search_words": [
+                "superstar"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-DURAMO-SPEED",
+              "name": "Adidas DURAMO SPEED",
+              "children": [],
+              "search_words": [
+                "duramo"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-WB-ADIOS-NEFTENGA",
+              "name": "ADIDAS WB ADIOS NEFTENGA",
+              "children": [],
+              "search_words": [
+                "adios neftenga"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-XLG-MTW",
+              "name": "Adidas XLG MTW",
+              "children": [],
+              "search_words": [
+                "mtw"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-RUNFALCON",
+              "name": "Adidas RUNFALCON",
+              "children": [],
+              "search_words": [
+                "runfalcon"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-EQT-BASKETBALL-ADV",
+              "name": "Adidas EQT Basketball ADV",
+              "children": [],
+              "search_words": [
+                "eqt"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-SWITCH-FWD",
+              "name": "Adidas Switch FWD",
+              "children": [],
+              "search_words": [
+                "fwd"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-NITE-JOGGER",
+              "name": "Adidas NITE JOGGER",
+              "children": [],
+              "search_words": [
+                "nite",
+                "jogger"
+              ],
+              "weight": "0.92"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ULTRABOOST",
+              "name": "Adidas Ultraboost",
+              "children": [],
+              "search_words": [
+                "ultra boost",
+                "ultraboost"
+              ],
+              "weight": "0.89"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-CLIMACOOL-VENTO",
+              "name": "Adidas Climacool Vento",
+              "children": [],
+              "search_words": [
+                "climacool"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-GRAND-COURTBEAT-BASE-00S",
+              "name": "Adidas GRAND COURTBEAT Base 00S",
+              "children": [],
+              "search_words": [
+                "grand court"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-STAN-SMITH",
+              "name": "Adidas Stan Smith",
+              "children": [],
+              "search_words": [
+                "stan smith",
+                "smith"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-YEEZY-BOOST-350V2",
+              "name": "Adidas Yeezy Boost 350V2",
+              "children": [],
+              "search_words": [
+                "350 v2",
+                "350v2",
+                "yeezy 350"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-OZWAVE-CLOG-OZEAVE-CLOG",
+              "name": "Adidas OZWAVE CLOG ozeave CLOG",
+              "children": [],
+              "search_words": [
+                "ozwave",
+                "ozwave clog"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-NMD",
+              "name": "Adidas NMD",
+              "children": [],
+              "search_words": [
+                "nmd"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-YEEZY-BOOST-700",
+              "name": "Adidas Yeezy Boost 700",
+              "children": [],
+              "search_words": [
+                "yeezy 700",
+                "yeezy v700",
+                "yeezy boost 700"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-PUREBOOST-SELECT",
+              "name": "Adidas Pureboost Select",
+              "children": [],
+              "search_words": [
+                "pureboost"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-EQUIPMENT-AGRAVIC",
+              "name": "ADIDAS EQUIPMENT AGRAVIC",
+              "children": [],
+              "search_words": [
+                "equipment",
+                "equipment agravic"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-JABBAR-LO-ATMOS",
+              "name": "ADIDAS JABBAR LO ATMOS",
+              "children": [],
+              "search_words": [
+                "jabbar"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-CITY-RNR",
+              "name": "Adidas Originals City RNR",
+              "children": [],
+              "search_words": [
+                "city rnr",
+                "rnr"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-ADILETTE",
+              "name": "Adidas originals Adilette",
+              "children": [],
+              "search_words": [
+                "adilette"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ORIGINALS-RESPONSE-CL",
+              "name": "Adidas Originals Response CL",
+              "children": [],
+              "search_words": [
+                "response cl"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ALPHABOUNCE-HPC",
+              "name": "Adidas AlphaBounce Hpc",
+              "children": [],
+              "search_words": [
+                "alphabounce"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-RETROPY-E5",
+              "name": "Adidas Retropy E5",
+              "children": [],
+              "search_words": [
+                "retropy"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-ADICANE-SLIDE",
+              "name": "Adidas Adicane Slide",
+              "children": [],
+              "search_words": [
+                "adicane"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS-OZWEEGO-ADIPRENE",
+              "name": "Adidas Ozweego Adiprene",
+              "children": [],
+              "search_words": [
+                "ozweego"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-ADIDAS-ADIDAS",
+              "name": "adidas",
+              "children": [],
+              "search_words": [
+                "adidas"
+              ],
+              "weight": "0.9"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-KID-SHOES",
+          "name": "kid shoes",
+          "children": [
+            {
+              "id": "CAT-SHOES-KID-SHOES-KID-SHOES",
+              "name": "Kid Shoes",
+              "children": [],
+              "search_words": [
+                "for kids_for&kid"
+              ],
+              "weight": "0.6"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-ALEXANDER-MCQUEEN",
+          "name": "Alexander McQueen",
+          "children": [
+            {
+              "id": "CAT-SHOES-ALEXANDER-MCQUEEN-ALEXANDER-MCQUEEN",
+              "name": "Alexander McQueen",
+              "children": [],
+              "search_words": [
+                "Alexander McQueen"
+              ],
+              "weight": "1.1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-DR-MARTENS",
+          "name": "Dr Martens",
+          "children": [
+            {
+              "id": "CAT-SHOES-DR-MARTENS-DR-MARTENS",
+              "name": "Dr Martens",
+              "children": [],
+              "search_words": [
+                "Dr Martens",
+                "martens"
+              ],
+              "weight": "1.2"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-PRADA",
+          "name": "Prada",
+          "children": [
+            {
+              "id": "CAT-SHOES-PRADA-PRADA",
+              "name": "Prada",
+              "children": [],
+              "search_words": [
+                "prada"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-GOLDEN-GOOSE",
+          "name": "Golden Goose",
+          "children": [
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE",
+              "name": "Golden Goose",
+              "children": [],
+              "search_words": [
+                "ggdb_golde goose"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-RUNNING",
+              "name": "Golden Goose Running",
+              "children": [],
+              "search_words": [
+                "Golden Goose Running"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-BALL-STAR",
+              "name": "Golden Goose Ball Star",
+              "children": [],
+              "search_words": [
+                "Golden Goose Ball Star"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-HI-STAR",
+              "name": "Golden Goose Hi Star",
+              "children": [],
+              "search_words": [
+                "Golden Goose Hi Star"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-STARDAN",
+              "name": "Golden Goose Stardan",
+              "children": [],
+              "search_words": [
+                "Golden Goose Stardan"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-FRANCY",
+              "name": "Golden Goose Francy",
+              "children": [],
+              "search_words": [
+                "Golden Goose Francy"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-MID-STAR",
+              "name": "Golden Goose Mid Star",
+              "children": [],
+              "search_words": [
+                "Golden Goose Mid Star"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-SLIDE",
+              "name": "Golden Goose Slide",
+              "children": [],
+              "search_words": [
+                "Golden Goose Slide"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-SUPERSTAR",
+              "name": "Golden Goose Superstar",
+              "children": [],
+              "search_words": [
+                "Golden Goose Superstar"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-GOLDEN-GOOSE-GOLDEN-GOOSE-SPACE-STAR",
+              "name": "Golden Goose Space-Star",
+              "children": [],
+              "search_words": [
+                "Golden Goose Space-Star"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-THE-NORTH-FACE",
+          "name": "The North Face",
+          "children": [
+            {
+              "id": "CAT-SHOES-THE-NORTH-FACE-THE-NORTH-FACE",
+              "name": "The North Face",
+              "children": [],
+              "search_words": [
+                "the north face"
+              ],
+              "weight": "1.1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-CROCS",
+          "name": "Crocs",
+          "children": [
+            {
+              "id": "CAT-SHOES-CROCS-CROCS",
+              "name": "Crocs",
+              "children": [],
+              "search_words": [
+                "crocs"
+              ],
+              "weight": "0.85"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-ON-CLOUD",
+          "name": "On Cloud",
+          "children": [
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUD-SWIFT",
+              "name": "On Cloud swift",
+              "children": [],
+              "search_words": [
+                "cloud swift"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUD-X",
+              "name": "On Cloud X",
+              "children": [],
+              "search_words": [
+                "cloud x"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDTILT",
+              "name": "On Cloudtilt",
+              "children": [],
+              "search_words": [
+                "cloudtilt"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDNOVA",
+              "name": "On Cloudnova",
+              "children": [],
+              "search_words": [
+                "cloudnova"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDMONSTER",
+              "name": "On Cloudmonster",
+              "children": [],
+              "search_words": [
+                "cloudmonster"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDZONE",
+              "name": "On Cloudzone",
+              "children": [],
+              "search_words": [
+                "cloudzone"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDRUNNER",
+              "name": "On Cloudrunner",
+              "children": [],
+              "search_words": [
+                "cloudrunner"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDVISTA",
+              "name": "On Cloudvista",
+              "children": [],
+              "search_words": [
+                "cloudvista"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUDSURFER",
+              "name": "On Cloudsurfer",
+              "children": [],
+              "search_words": [
+                "cloudsurfer"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-ON-CLOUD-ON-CLOUD-CLOUD",
+              "name": "on cloud_cloud",
+              "children": [],
+              "search_words": [
+                "on cloud",
+                "cloud"
+              ],
+              "weight": "0.8"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-HOKA",
+          "name": "hoka",
+          "children": [
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-KAWANA",
+              "name": "HOKA ONE ONE Kawana",
+              "children": [],
+              "search_words": [
+                "hoka one one kawana",
+                "one kawana"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-BONDI-9",
+              "name": "HOKA ONE ONE Bondi 9",
+              "children": [],
+              "search_words": [
+                "bondi 9"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-BONDI-8",
+              "name": "HOKA ONE ONE Bondi 8",
+              "children": [],
+              "search_words": [
+                "bondi 8"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-U-BONDI-B3LS",
+              "name": "HOKA ONE ONE U BONDI B3LS",
+              "children": [],
+              "search_words": [
+                "bondi b3ls"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-MAFATE-SPEED-2",
+              "name": "HOKA MAFATE SPEED 2",
+              "children": [],
+              "search_words": [
+                "mafate speed 2",
+                "hoka speed"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-RUNNING-MAFATE-TRAIL",
+              "name": "HOKA RUNNING MAFATE TRAIL",
+              "children": [],
+              "search_words": [
+                "hoka running",
+                "mafate trail"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-HOPARA",
+              "name": "HOKA HOPARA",
+              "children": [],
+              "search_words": [
+                "hoka hopara"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONEU-ROCKET-X",
+              "name": "HOKA ONE ONEU ROCKET X",
+              "children": [],
+              "search_words": [
+                "oneu rocket"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-SKYWARD",
+              "name": "HOKA SKYWARD",
+              "children": [],
+              "search_words": [
+                "hoka skyward"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-BONDI-B3",
+              "name": "HOKA ONE ONE Bondi B3",
+              "children": [],
+              "search_words": [
+                "hoka bondi b3",
+                "bondi b3"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA-ONE-ONE-SKYLINE-FLOAT",
+              "name": "HOKA ONE ONE Skyline Float",
+              "children": [],
+              "search_words": [
+                "hoka skyline",
+                "skyline float"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-HOKA-HOKA",
+              "name": "hoka",
+              "children": [],
+              "search_words": [
+                "hoka"
+              ],
+              "weight": "0.75"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-PUMA",
+          "name": "puma",
+          "children": [
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-SPEEDCAT-OG",
+              "name": "Puma Speedcat OG",
+              "children": [],
+              "search_words": [
+                "puma speedcat"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-SUEDE-XL",
+              "name": "Puma Suede XL",
+              "children": [],
+              "search_words": [
+                "puma suede"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-PALERMO",
+              "name": "Puma Palermo",
+              "children": [],
+              "search_words": [
+                "puma palermo"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-BELLA",
+              "name": "PUMA Bella",
+              "children": [],
+              "search_words": [
+                "puma bella"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-CLUB",
+              "name": "PUMA Club",
+              "children": [],
+              "search_words": [
+                "puma club"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-EASY",
+              "name": "Puma Easy",
+              "children": [],
+              "search_words": [
+                "puma easy"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-DEVIATE",
+              "name": "Puma Deviate",
+              "children": [],
+              "search_words": [
+                "puma deviate"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-CATCH",
+              "name": "Puma Catch",
+              "children": [],
+              "search_words": [
+                "puma catch"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-ALL-PRO",
+              "name": "Puma All-Pro",
+              "children": [],
+              "search_words": [
+                "puma all-pro"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-FORMSTRIP-COURT",
+              "name": "Puma Formstrip Court",
+              "children": [],
+              "search_words": [
+                "puma court"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA-ROYALCAT-COMFORT-DENIM",
+              "name": "PUMA Royalcat Comfort Denim",
+              "children": [],
+              "search_words": [
+                "puma royalcat"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-PUMA-PUMA",
+              "name": "puma",
+              "children": [],
+              "search_words": [
+                "puma"
+              ],
+              "weight": "0.88"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-KENZO",
+          "name": "kenzo",
+          "children": [
+            {
+              "id": "CAT-SHOES-KENZO-KENZO",
+              "name": "Kenzo",
+              "children": [],
+              "search_words": [
+                "kenzo"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-LACOSTE",
+          "name": "lacoste",
+          "children": [
+            {
+              "id": "CAT-SHOES-LACOSTE-LACOSTE",
+              "name": "Lacoste",
+              "children": [],
+              "search_words": [
+                "lacoste"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-VANS",
+          "name": "vans",
+          "children": [
+            {
+              "id": "CAT-SHOES-VANS-VANS",
+              "name": "Vans",
+              "children": [],
+              "search_words": [
+                "vans"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-CONVERSE",
+          "name": "converse",
+          "children": [
+            {
+              "id": "CAT-SHOES-CONVERSE-CONVERSE-CHUNK",
+              "name": "Converse Chunk",
+              "children": [],
+              "search_words": [
+                "converse chunk"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-CONVERSE-CONVERSE-CHUCK-ONE-STAR",
+              "name": "Converse Chuck One Star",
+              "children": [],
+              "search_words": [
+                "converse on star",
+                "one star"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-CONVERSE-CONVERSE-CHUCK-TAYLOR-ALL-STAR",
+              "name": "Converse Chuck Taylor All Star",
+              "children": [],
+              "search_words": [
+                "converse all star"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-CONVERSE-CONVERSE",
+              "name": "converse",
+              "children": [],
+              "search_words": [
+                "converse"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-BROOKS",
+          "name": "brooks",
+          "children": [
+            {
+              "id": "CAT-SHOES-BROOKS-BROOKS",
+              "name": "Brooks",
+              "children": [],
+              "search_words": [
+                "brooks"
+              ],
+              "weight": "0.98"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-DESCENTE",
+          "name": "descente",
+          "children": [
+            {
+              "id": "CAT-SHOES-DESCENTE-DESCENTE",
+              "name": "Descente",
+              "children": [],
+              "search_words": [
+                "descente"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-VEJA",
+          "name": "veja",
+          "children": [
+            {
+              "id": "CAT-SHOES-VEJA-VEJA",
+              "name": "Veja",
+              "children": [],
+              "search_words": [
+                "veja"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-BIRKENSTOCK",
+          "name": "birkenstock",
+          "children": [
+            {
+              "id": "CAT-SHOES-BIRKENSTOCK-BIRKENSTOCK",
+              "name": "Birkenstock",
+              "children": [],
+              "search_words": [
+                "birkenstock"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-BIRKENSTOCK-BK-BIRKENSTOCK-SHOES",
+              "name": "BK Birkenstock shoes",
+              "children": [],
+              "search_words": [
+                "birkenstock&BK"
+              ],
+              "weight": "0.8"
+            },
+            {
+              "id": "CAT-SHOES-BIRKENSTOCK-SD-BIRKENSTOCK-SHOES",
+              "name": "SD Birkenstock Shoes",
+              "children": [],
+              "search_words": [
+                "Birkenstock&sd"
+              ],
+              "weight": "0.8"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-JORDAN",
+          "name": "jordan",
+          "children": [
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-11",
+              "name": "Nike Air Jordan 11",
+              "children": [],
+              "search_words": [
+                "jordan 11",
+                "aj11"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-1",
+              "name": "Nike Air Jordan 1",
+              "children": [],
+              "search_words": [
+                "jordan 1_jordan&aj low_jordan&aj1 high"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-4",
+              "name": "Nike Air Jordan 4",
+              "children": [],
+              "search_words": [
+                "jordan 4",
+                "aj4"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-12",
+              "name": "Nike Air Jordan 12",
+              "children": [],
+              "search_words": [
+                "jordan 12",
+                "aj12"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-8",
+              "name": "Nike Air Jordan 8",
+              "children": [],
+              "search_words": [
+                "Jordan 8",
+                "aj8"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-5",
+              "name": "Nike Air Jordan 5",
+              "children": [],
+              "search_words": [
+                "jordan 5"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-JORDAN-FLIGHT-COURT",
+              "name": "Nike Jordan FLIGHT COURT",
+              "children": [],
+              "search_words": [
+                "jordan flight"
+              ],
+              "weight": "1.2"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-JORDAN-JUMPMAN",
+              "name": "Nike Jordan Jumpman",
+              "children": [],
+              "search_words": [
+                "jordan jumpman"
+              ],
+              "weight": "1.2"
+            },
+            {
+              "id": "CAT-SHOES-JORDAN-NIKE-AIR-JORDAN-HYDRO",
+              "name": "NIKE AIR JORDAN HYDRO",
+              "children": [],
+              "search_words": [
+                "jordan hydro"
+              ],
+              "weight": "1.2"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-NEW-BALANCE",
+          "name": "new balance",
+          "children": [
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-MIUMIU-X-NEW-BALANCE-530",
+              "name": "MiuMiu x New Balance 530",
+              "children": [],
+              "search_words": [
+                "miumiu new",
+                "miu miu new",
+                "new balance x miumiu",
+                "new balance x miu miu"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-W1080",
+              "name": "new balance w1080",
+              "children": [],
+              "search_words": [
+                "new balance w1080"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-740",
+              "name": "new balance 740",
+              "children": [],
+              "search_words": [
+                "new balance 740",
+                "nb740",
+                "m740"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-2002",
+              "name": "new balance 2002",
+              "children": [],
+              "search_words": [
+                "new balance 2002",
+                "m2002",
+                "nb2002"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-M1906",
+              "name": "new balance m1906",
+              "children": [],
+              "search_words": [
+                "new balance m1906",
+                "new balance 1906",
+                "nb1906",
+                "m1906"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB9060",
+              "name": "new balance nb9060",
+              "children": [],
+              "search_words": [
+                "new balance nb9060",
+                "nb9060",
+                "new balance 9060"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-MS327",
+              "name": "new balance ms327",
+              "children": [],
+              "search_words": [
+                "new balance ms327",
+                "ms327",
+                "new balance 327",
+                "nb327"
+              ],
+              "weight": "0.78"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-MT10",
+              "name": "new balance mt10",
+              "children": [],
+              "search_words": [
+                "new balance mt10",
+                "mt10"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB-FRESH",
+              "name": "New Balance NB Fresh",
+              "children": [],
+              "search_words": [
+                "new balance nb fresh foam",
+                "nb fresh"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-1000",
+              "name": "new balance 1000",
+              "children": [],
+              "search_words": [
+                "new balance 1000"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-992",
+              "name": "new balance 992",
+              "children": [],
+              "search_words": [
+                "new balance 992",
+                "nb992"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-530",
+              "name": "new balance 530",
+              "children": [],
+              "search_words": [
+                "new balance 530",
+                "nb530"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-574",
+              "name": "new balance 574",
+              "children": [],
+              "search_words": [
+                "new balance 574",
+                "nb574"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB860",
+              "name": "new balance nb860",
+              "children": [],
+              "search_words": [
+                "new balance nb860",
+                "nb860",
+                "nb 860"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB-471",
+              "name": "New Balance NB 471",
+              "children": [],
+              "search_words": [
+                "new balance nb 471",
+                "nb 471",
+                "nb471"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB5740",
+              "name": "new balance nb5740",
+              "children": [],
+              "search_words": [
+                "new balance nb5740",
+                "nb5740",
+                "nb 5740",
+                "new balance 5740"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-2010",
+              "name": "new balance 2010",
+              "children": [],
+              "search_words": [
+                "new balance 2010"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-2000",
+              "name": "new balance 2000",
+              "children": [],
+              "search_words": [
+                "new balance 2000",
+                "nb200",
+                "m2000"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB-BREEZE",
+              "name": "new balance nb breeze",
+              "children": [],
+              "search_words": [
+                "new balance nb breeze",
+                "nb breeze"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-NB-878",
+              "name": "new balance nb 878",
+              "children": [],
+              "search_words": [
+                "new balance nb 878",
+                "nb878",
+                "nb 878"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-U574",
+              "name": "new balance u574",
+              "children": [],
+              "search_words": [
+                "new balance u574",
+                "u574",
+                "new balance 574"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-U990",
+              "name": "new balance u990",
+              "children": [],
+              "search_words": [
+                "new balance u990",
+                "u990",
+                "new balance 990"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE-WARPED-RUNNER",
+              "name": "New Balance Warped Runner",
+              "children": [],
+              "search_words": [
+                "wonder runner"
+              ],
+              "weight": "0.9"
+            },
+            {
+              "id": "CAT-SHOES-NEW-BALANCE-NEW-BALANCE",
+              "name": "new balance",
+              "children": [],
+              "search_words": [
+                "new balance",
+                "newbalance"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-ASICS",
+          "name": "asics",
+          "children": [
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-MAGIC",
+              "name": "asics magic",
+              "children": [],
+              "search_words": [
+                "asics magic"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-NIMBUS-NIMBUS",
+              "name": "asics gel-nimbus_nimbus",
+              "children": [],
+              "search_words": [
+                "asics gel-nimbus",
+                "nimbus"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-KAHANA",
+              "name": "asics gel-kahana",
+              "children": [],
+              "search_words": [
+                "asics gel-kahana"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-DS",
+              "name": "asics gel-ds",
+              "children": [],
+              "search_words": [
+                "asics gel-ds"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-KAYANO",
+              "name": "asics gel-kayano",
+              "children": [],
+              "search_words": [
+                "asics gel-kayano"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-NYC",
+              "name": "ASICS GEL-NYC",
+              "children": [],
+              "search_words": [
+                "ASICS GEL-NYC"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-1130",
+              "name": "asics gel-1130",
+              "children": [],
+              "search_words": [
+                "asics gel-1130"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-RESOLUTION",
+              "name": "asics gel-resolution",
+              "children": [],
+              "search_words": [
+                "asics gel-resolution"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-FLUX",
+              "name": "asics gel-flux",
+              "children": [],
+              "search_words": [
+                "asics gel-flux"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-CHALLENGER",
+              "name": "asics gel-challenger",
+              "children": [],
+              "search_words": [
+                "asics gel-challenger"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-SONOMA",
+              "name": "asics gel-sonoma",
+              "children": [],
+              "search_words": [
+                "asics gel-sonoma"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-GEL-KINETIC",
+              "name": "asics gel-kinetic",
+              "children": [],
+              "search_words": [
+                "asics gel-kinetic"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-COURT-MZ",
+              "name": "asics court mz",
+              "children": [],
+              "search_words": [
+                "asics court mz"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS-NOVABLAST",
+              "name": "asics novablast",
+              "children": [],
+              "search_words": [
+                "asics novablast"
+              ],
+              "weight": "0.88"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ONITSUKA-TIGER-MEXICO-66",
+              "name": "Onitsuka Tiger Mexico 66",
+              "children": [],
+              "search_words": [
+                "mexico 66"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ONITSUKA-TIGER",
+              "name": "Onitsuka Tiger",
+              "children": [],
+              "search_words": [
+                "tiger"
+              ],
+              "weight": "0.79"
+            },
+            {
+              "id": "CAT-SHOES-ASICS-ASICS",
+              "name": "asics",
+              "children": [],
+              "search_words": [
+                "asics"
+              ],
+              "weight": "0.88"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-SALOMON",
+          "name": "salomon",
+          "children": [
+            {
+              "id": "CAT-SHOES-SALOMON-SALOMON-XT-QUEST-XT-QUEST",
+              "name": "salomon xt-quest_xt-quest",
+              "children": [],
+              "search_words": [
+                "salomon xt-quest",
+                "xt-quest"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-SALOMON-SALOMON-XA",
+              "name": "salomon xa",
+              "children": [],
+              "search_words": [
+                "salomon xa"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-SALOMON-SALOMON-X-ALP",
+              "name": "salomon x-alp",
+              "children": [],
+              "search_words": [
+                "salomon x-alp"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-SALOMON-SALOMON-MM6",
+              "name": "salomon mm6",
+              "children": [],
+              "search_words": [
+                "salomon mm6"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-SALOMON-SALOMON",
+              "name": "salomon",
+              "children": [],
+              "search_words": [
+                "salomon"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-REEBOK",
+          "name": "Reebok",
+          "children": [
+            {
+              "id": "CAT-SHOES-REEBOK-REEBOK",
+              "name": "Reebok",
+              "children": [],
+              "search_words": [
+                "reebok"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-TIMBERLAND",
+          "name": "Timberland",
+          "children": [
+            {
+              "id": "CAT-SHOES-TIMBERLAND-TIMBERLAND",
+              "name": "Timberland",
+              "children": [],
+              "search_words": [
+                "Timberland"
+              ],
+              "weight": "1.6"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-LOEWE-SHOES",
+          "name": "loewe shoes",
+          "children": [
+            {
+              "id": "CAT-SHOES-LOEWE-SHOES-LOEWE-BALLET-RUNNER-2",
+              "name": "LOEWE Ballet Runner 2",
+              "children": [],
+              "search_words": [
+                "loewe ballet runner 2_loewe&runner 2"
+              ],
+              "weight": "0.75"
+            },
+            {
+              "id": "CAT-SHOES-LOEWE-SHOES-LOEWE-SHOES",
+              "name": "Loewe Shoes",
+              "children": [],
+              "search_words": [
+                "Loewe Shoes_loewe&shoes"
+              ],
+              "weight": "0.88"
+            }
+          ]
+        },
+        {
+          "id": "CAT-SHOES-MR-SHOES",
+          "name": "MR Shoes",
+          "children": [],
+          "search_words": [
+            "MR1_mr2_mr3_mr4_mr5_mr6_mr7_mr8_mr8_mr9"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-JDS-SHOES",
+          "name": "JDS Shoes",
+          "children": [],
+          "search_words": [
+            "JDS"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-LD-FOOTBALL-SHOES",
+          "name": "LD Football shoes",
+          "children": [],
+          "search_words": [
+            "LD"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-LX-FOOTBALL-SHOES",
+          "name": "LX Football Shoes",
+          "children": [],
+          "search_words": [
+            "LX"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-MJL-SHOES",
+          "name": "MJL Shoes",
+          "children": [],
+          "search_words": [
+            "mjl"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-LULULEMON-SLIPPERS",
+          "name": "Lululemon Slippers",
+          "children": [],
+          "search_words": [
+            "Lululemon Slippers_lulu&slipper"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-ALO-SHOES",
+          "name": "alo shoes",
+          "children": [
+            {
+              "id": "CAT-SHOES-ALO-SHOES-ALO-SLIDES",
+              "name": "ALO Slides",
+              "children": [],
+              "search_words": [
+                "ALO Slides_alo&slide"
+              ],
+              "weight": "0.88"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-A-BATHING-APE-BAPE",
+          "name": "A Bathing Ape BAPE",
+          "children": [
+            {
+              "id": "CAT-SHOES-A-BATHING-APE-BAPE-A-BATHING-APE-BAPE-SK8",
+              "name": "A Bathing Ape BAPE Sk8",
+              "children": [],
+              "search_words": [
+                "A Bathing Ape BAPE Sk8_bape&sk8"
+              ],
+              "weight": "1"
+            },
+            {
+              "id": "CAT-SHOES-A-BATHING-APE-BAPE-BAPE",
+              "name": "bape",
+              "children": [],
+              "search_words": [
+                "bape"
+              ],
+              "weight": "1"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-SHOES-OFF-WHITE",
+          "name": "OFF-WHITE",
+          "children": [
+            {
+              "id": "CAT-SHOES-OFF-WHITE-OFF-WHITE",
+              "name": "OFF-WHITE",
+              "children": [],
+              "search_words": [
+                "OFF-WHITE_off&white"
+              ],
+              "weight": "1.2"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        }
+      ],
+      "search_words": [],
+      "weight": ""
+    },
+    {
+      "id": "CAT-BAGS",
+      "key": "bags",
+      "name": "bags",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-BAGS-BAGS",
+          "name": "bags",
+          "children": [
+            {
+              "id": "CAT-BAGS-BAGS-XR-BR",
+              "name": "xr_br",
+              "children": [],
+              "search_words": [
+                "xr",
+                "br"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-BAGS-DX",
+              "name": "dx",
+              "children": [],
+              "search_words": [
+                "dx"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-BAGS-ZY-BY",
+              "name": "zy_by",
+              "children": [],
+              "search_words": [
+                "zy_by_bya"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-KANKEN-BAGS",
+          "name": "kanken bags",
+          "children": [
+            {
+              "id": "CAT-BAGS-KANKEN-BAGS-KANKEN-FJALLRAVEN",
+              "name": "kanken_Fjallraven",
+              "children": [],
+              "search_words": [
+                "kanken",
+                "Fjallraven"
+              ],
+              "weight": "0.45"
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-BIMBA",
+          "name": "bimba",
+          "children": [
+            {
+              "id": "CAT-BAGS-BIMBA-BIMBA",
+              "name": "bimba",
+              "children": [],
+              "search_words": [
+                "bimba"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-LULULEMON-BAG",
+          "name": "Lululemon Bag",
+          "children": [],
+          "search_words": [
+            "Lululemon Bag_Lululemon&bag"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-QS-BAGS",
+          "name": "QS Bags",
+          "children": [],
+          "search_words": [
+            "bag&QS"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-ALO-BAGS",
+          "name": "ALO bags",
+          "children": [],
+          "search_words": [
+            "ALO bags_alo&bag"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-PRADA-BAG",
+          "name": "Prada bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-PRADA-BAG-PRADA-TOTE-BAG",
+              "name": "prada tote bag",
+              "children": [],
+              "search_words": [
+                "prada tote bag_prada&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-PRADA-BAG-PRADA-SHOULDER-BAG",
+              "name": "PRADA Shoulder bag",
+              "children": [],
+              "search_words": [
+                "PRADA Shoulder bag_prada&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-PRADA-BAG-PRADA-TRAVELLING-BAG",
+              "name": "PRADA Travelling bag",
+              "children": [],
+              "search_words": [
+                "PRADA Travelling bag_prada&travel"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-PRADA-BAG-PRADA-BACKPACK",
+              "name": "prada backpack",
+              "children": [],
+              "search_words": [
+                "prada backpack"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-MIUMIU-BAG",
+          "name": "MiuMiu bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-MIUMIU-BAG-MIUMIU-SHOULDER-BAG",
+              "name": "miumiu Shoulder bag",
+              "children": [],
+              "search_words": [
+                "miumiu Shoulder bag_miu&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-MIUMIU-BAG-MIUMIU-TOTE-BAG",
+              "name": "Miumiu tote bag",
+              "children": [],
+              "search_words": [
+                "Miumiu tote bag_miu&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-MIUMIU-BAG-MIUMIU-BACKPACK",
+              "name": "miumiu backpack",
+              "children": [],
+              "search_words": [
+                "miumiu backpack_miu&backpack"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-LV-BAG",
+          "name": "LV Bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-LV-BAG-LV-SHOULDER-BAG",
+              "name": "LV Shoulder bag",
+              "children": [],
+              "search_words": [
+                "LV Shoulder bag_lv&shoulder_louis&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-LV-BAG-LV-TOTE-BAG",
+              "name": "LV Tote bag",
+              "children": [],
+              "search_words": [
+                "LV Tote bag_lv&tote_louis&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-LV-BAG-LV-BACKPACK-BAG",
+              "name": "LV Backpack bag",
+              "children": [],
+              "search_words": [
+                "LV Backpack bag_lv&backpack_louis&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-LV-BAG-LV-TRAVELLING-BAG",
+              "name": "LV Travelling bag",
+              "children": [],
+              "search_words": [
+                "LV Travelling bag_lv&travel_louis&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-COACH-BAG",
+          "name": "COACH bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-COACH-BAG-COACH-SHOULDER-BAG",
+              "name": "COACH Shoulder bag",
+              "children": [],
+              "search_words": [
+                "COACH Shoulder bag_coach&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-COACH-BAG-COACH-TOTE-BAG",
+              "name": "COACH Tote Bag",
+              "children": [],
+              "search_words": [
+                "COACH Tote Bag_coach&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-COACH-BAG-COACH-TRAVELLING-BAG",
+              "name": "COACH Travelling bag",
+              "children": [],
+              "search_words": [
+                "COACH Travelling bag_coach&travel"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-COACH-BAG-COACH-BACKPACK",
+              "name": "Coach Backpack",
+              "children": [],
+              "search_words": [
+                "Coach Backpack_coach&backpack"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-CELINE-BAG",
+          "name": "CELINE bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-CELINE-BAG-CELINE-SHOULDER-BAG",
+              "name": "CELINE Shoulder bag",
+              "children": [],
+              "search_words": [
+                "CELINE Shoulder bag_celine&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CELINE-BAG-CELINE-TOTE-BAG",
+              "name": "CELINE Tote Bag",
+              "children": [],
+              "search_words": [
+                "CELINE Tote Bag_celine&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CELINE-BAG-CELINE-BACKPACK-BAG",
+              "name": "CELINE Backpack bag",
+              "children": [],
+              "search_words": [
+                "CELINE Backpack_celine&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CELINE-BAG-CELINE-TRAVELLING-BAG",
+              "name": "CELINE Travelling bag",
+              "children": [],
+              "search_words": [
+                "CELINE Travelling_celine&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-CHANEL-BAG",
+          "name": "Chanel Bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-CHANEL-BAG-CHANEL-SHOULDER-BAG",
+              "name": "CHANEL Shoulder Bag",
+              "children": [],
+              "search_words": [
+                "CHANEL Shoulder_chanel&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CHANEL-BAG-CHANEL-TOTE-BAG",
+              "name": "CHANEL Tote bag",
+              "children": [],
+              "search_words": [
+                "CHANEL Tote_chanel&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CHANEL-BAG-CHANEL-BACKPACK-BAG",
+              "name": "CHANEL Backpack bag",
+              "children": [],
+              "search_words": [
+                "CHANEL Backpack_chanel&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-CHANEL-BAG-CHANEL-TRAVEL-BAG",
+              "name": "Chanel Travel bag",
+              "children": [],
+              "search_words": [
+                "Chanel Travel_chanel&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-DIOR-BAG",
+          "name": "Dior bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-DIOR-BAG-DIOR-SHOULDER-BAG",
+              "name": "Dior Shoulder bag",
+              "children": [],
+              "search_words": [
+                "Dior Shoulder bag_Dior&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-DIOR-BAG-DIOR-TOTE-BAG",
+              "name": "Dior Tote bag",
+              "children": [],
+              "search_words": [
+                "Dior Tote bag_dior&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-DIOR-BAG-DIOR-BACKPACK-BAG",
+              "name": "Dior Backpack bag",
+              "children": [],
+              "search_words": [
+                "Dior Backpack_dior&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-DIOR-BAG-DIOR-TRAVEL-BAG",
+              "name": "Dior Travel Bag",
+              "children": [],
+              "search_words": [
+                "Dior Travel Bag_dior&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-FENDI-BAG",
+          "name": "FENDI bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-FENDI-BAG-FENDI-SHOULDER-BAG",
+              "name": "FENDI Shoulder bag",
+              "children": [],
+              "search_words": [
+                "FENDI Shoulder_fendi&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-FENDI-BAG-FENDI-TOTE-BAG",
+              "name": "FENDI Tote bag",
+              "children": [],
+              "search_words": [
+                "FENDI Tote_fendi&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-FENDI-BAG-FENDI-BACKPACK-BAG",
+              "name": "FENDI Backpack bag",
+              "children": [],
+              "search_words": [
+                "FENDI Backpack_fendi&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-FENDI-BAG-FENDI-TRAVEL-BAG",
+              "name": "FENDI Travel bag",
+              "children": [],
+              "search_words": [
+                "fendi travel_fendi&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-GOYARD-BAG",
+          "name": "GOYARD bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-GOYARD-BAG-GOYARD-SHOULDER-BAG",
+              "name": "GOYARD Shoulder bag",
+              "children": [],
+              "search_words": [
+                "GOYARD Shoulder_goyard&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-GOYARD-BAG-GOYARD-TOTE-BAG",
+              "name": "GOYARD Tote bag",
+              "children": [],
+              "search_words": [
+                "GOYARD Tote_goyard&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-GOYARD-BAG-GOYARD-TRAVEL-BAG",
+              "name": "GOYARD Travel Bag",
+              "children": [],
+              "search_words": [
+                "GOYARD travel_goyard&travel"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-GOYARD-BAG-GOYARD-BACKPACK",
+              "name": "GOYARD Backpack",
+              "children": [],
+              "search_words": [
+                "GOYARD Backpack_goyard&backpack"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-HERMES-BAG",
+          "name": "HERMES bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-HERMES-BAG-HERMES-SHOULDER-BAG",
+              "name": "HERMES Shoulder bag",
+              "children": [],
+              "search_words": [
+                "HERMES Shoulder_hermes&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-HERMES-BAG-HERMES-TOTE-BAG",
+              "name": "HERMES Tote bag",
+              "children": [],
+              "search_words": [
+                "HERMES Tote_hermes&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-HERMES-BAG-HERMES-BACKPACK",
+              "name": "Hermes Backpack",
+              "children": [],
+              "search_words": [
+                "Hermes Backpack_hermes&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-HERMES-BAG-HERMES-TRAVEL-BAG",
+              "name": "Hermes Travel Bag",
+              "children": [],
+              "search_words": [
+                "Hermes Travel_hermes&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-MCM-BAG",
+          "name": "MCM bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-MCM-BAG-MCM-SHOULDER-BAG",
+              "name": "MCM Shoulder bag",
+              "children": [],
+              "search_words": [
+                "MCM Shoulder_mcm&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-MCM-BAG-MCM-TOTE-BAG",
+              "name": "MCM Tote bag",
+              "children": [],
+              "search_words": [
+                "MCM Tote_mcm&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-MCM-BAG-MCM-BACKPACK-BAG",
+              "name": "MCM Backpack bag",
+              "children": [],
+              "search_words": [
+                "MCM Backpack_mcm&backpack"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-MCM-BAG-MCM-TRAVEL-BAG",
+              "name": "MCM Travel Bag",
+              "children": [],
+              "search_words": [
+                "MCM Travel_mcm&travel"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-BAGS-YSL-BAG",
+          "name": "YSL bag",
+          "children": [
+            {
+              "id": "CAT-BAGS-YSL-BAG-YSL-SHOULDER-BAG",
+              "name": "YSL Shoulder bag",
+              "children": [],
+              "search_words": [
+                "YSL Shoulder_ysl&shoulder"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-YSL-BAG-YSL-TOTE-BAG",
+              "name": "YSL Tote bag",
+              "children": [],
+              "search_words": [
+                "YSL Tote_ysl&tote"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-YSL-BAG-YSL-TRAVEL-BAG",
+              "name": "YSL Travel Bag",
+              "children": [],
+              "search_words": [
+                "YSL Travel_ysl&travel"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-BAGS-YSL-BAG-YSL-BACKPACK",
+              "name": "YSL Backpack",
+              "children": [],
+              "search_words": [
+                "YSL Backpack_ysl&backpack"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-UGG",
+      "key": "ugg",
+      "name": "ugg",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-UGG-TOP-QUALITY-UGG-SHOES",
+          "name": "Top Quality UGG Shoes",
+          "children": [],
+          "search_words": [
+            "Top Quality UGG_top quality&ugg_top&ugg"
+          ],
+          "weight": "0.88"
+        },
+        {
+          "id": "CAT-UGG-MEDIUM-QUALITY-UGG-SHOES",
+          "name": "Medium Quality UGG Shoes",
+          "children": [],
+          "search_words": [],
+          "weight": "0.88"
+        },
+        {
+          "id": "CAT-UGG-UGG-OTHERS",
+          "name": "UGG OTHERS",
+          "children": [],
+          "search_words": [],
+          "weight": "0.88"
+        },
+        {
+          "id": "CAT-UGG-MG-UGG-SHOES",
+          "name": "MG UGG Shoes",
+          "children": [],
+          "search_words": [
+            "MG&UGG"
+          ],
+          "weight": "0.88"
+        },
+        {
+          "id": "CAT-UGG-SG-UGG-SHOES",
+          "name": "SG UGG Shoes",
+          "children": [],
+          "search_words": [
+            "ugg&SG"
+          ],
+          "weight": "0.88"
+        }
+      ]
+    },
+    {
+      "id": "CAT-RALPH-LAUREN",
+      "key": "ralph-lauren",
+      "name": "ralph lauren",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-RALPH-LAUREN-RALPH-LAUREN",
+          "name": "ralph lauren",
+          "children": [
+            {
+              "id": "CAT-RALPH-LAUREN-RALPH-LAUREN-RALPH-LAUREN",
+              "name": "Ralph Lauren",
+              "children": [],
+              "search_words": [
+                "lauren",
+                "ralph lauren"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-BALENCIAGA",
+      "key": "balenciaga",
+      "name": "Balenciaga",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-BALENCIAGA-BALENCIAGA",
+          "name": "Balenciaga",
+          "children": [],
+          "search_words": [
+            "balenciaga"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-GUCCI",
+      "key": "gucci",
+      "name": "Gucci",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-GUCCI-GUCCI",
+          "name": "Gucci",
+          "children": [],
+          "search_words": [
+            "gucci"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-DIOR",
+      "key": "dior",
+      "name": "Dior",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-DIOR-DIOR",
+          "name": "Dior",
+          "children": [],
+          "search_words": [
+            "dior"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-LOUIS-VUITTON",
+      "key": "louis-vuitton",
+      "name": "Louis Vuitton",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-LOUIS-VUITTON-LOUIS-VUITTON",
+          "name": "Louis Vuitton",
+          "children": [],
+          "search_words": [
+            "Louis Vuitton",
+            "lv"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-FILA",
+      "key": "fila",
+      "name": "Fila",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-FILA-FILA",
+          "name": "Fila",
+          "children": [],
+          "search_words": [
+            "fila"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-EECO",
+      "key": "eeco",
+      "name": "EECO",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-EECO-EECO",
+          "name": "EECO",
+          "children": [],
+          "search_words": [
+            "ecoo"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-KEEN",
+      "key": "keen",
+      "name": "Keen",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-KEEN-KEEN",
+          "name": "Keen",
+          "children": [],
+          "search_words": [
+            "keen"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-UNDER-ARMOUR",
+      "key": "under-armour",
+      "name": "Under Armour",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-UNDER-ARMOUR-UNDER-ARMOUR",
+          "name": "Under Armour",
+          "children": [],
+          "search_words": [
+            "under armour"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-CELINE",
+      "key": "celine",
+      "name": "Celine",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-CELINE-CELINE",
+          "name": "Celine",
+          "children": [],
+          "search_words": [
+            "celine"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-CHANEL",
+      "key": "chanel",
+      "name": "Chanel",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-CHANEL-CHANEL",
+          "name": "Chanel",
+          "children": [],
+          "search_words": [
+            "chanel"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-HERMES",
+      "key": "hermes",
+      "name": "HERMES",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-HERMES-HERMES",
+          "name": "HERMES",
+          "children": [],
+          "search_words": [
+            "hermes"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-BURBERRY",
+      "key": "burberry",
+      "name": "Burberry",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-BURBERRY-BURBERRY",
+          "name": "Burberry",
+          "children": [],
+          "search_words": [
+            "burberry"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-MONCLER",
+      "key": "moncler",
+      "name": "Moncler",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-MONCLER-MONCLER",
+          "name": "Moncler",
+          "children": [],
+          "search_words": [
+            "moncler"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-LULULEMON",
+      "key": "lululemon",
+      "name": "Lululemon",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-LULULEMON-LULULEMON",
+          "name": "lululemon",
+          "children": [],
+          "search_words": [
+            "Lululemon"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-MIUMIU",
+      "key": "miumiu",
+      "name": "MiuMiu",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-MIUMIU-MIUMIU",
+          "name": "MiuMiu",
+          "children": [],
+          "search_words": [
+            "miumiu",
+            "miu miu"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-BOSS",
+      "key": "boss",
+      "name": "BOSS",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-BOSS-BOSS",
+          "name": "BOSS",
+          "children": [],
+          "search_words": [
+            "boss"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-STUSSY",
+      "key": "stussy",
+      "name": "Stussy",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-STUSSY-STUSSY",
+          "name": "Stussy",
+          "children": [],
+          "search_words": [
+            "stussy"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-YSL",
+      "key": "ysl",
+      "name": "YSL",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-YSL-YSL",
+          "name": "YSL",
+          "children": [],
+          "search_words": [
+            "ysl"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-STONE-ISLAND",
+      "key": "stone-island",
+      "name": "STONE ISLAND",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-STONE-ISLAND-STONE-ISLAND",
+          "name": "STONE ISLAND",
+          "children": [],
+          "search_words": [
+            "stone"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-KOLON",
+      "key": "kolon",
+      "name": "KOLON",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-KOLON-KOLON",
+          "name": "KOLON",
+          "children": [],
+          "search_words": [
+            "kolon"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-AIRPODS",
+      "key": "airpods",
+      "name": "airpods",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-AIRPODS-AIRPODS",
+          "name": "airpods",
+          "children": [],
+          "search_words": [
+            "airpods"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-VALENTINO",
+      "key": "valentino",
+      "name": "Valentino",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-VALENTINO-VALENTINO",
+          "name": "VALENTINO",
+          "children": [],
+          "search_words": [
+            "Valentino"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-FENDI",
+      "key": "fendi",
+      "name": "Fendi",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-FENDI-FENDI",
+          "name": "Fendi",
+          "children": [],
+          "search_words": [
+            "fendi"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-JIMMY",
+      "key": "jimmy",
+      "name": "Jimmy",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-JIMMY-JIMMY",
+          "name": "Jimmy",
+          "children": [],
+          "search_words": [
+            "Jimmy"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-AMIRI",
+      "key": "amiri",
+      "name": "AMIRI",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-AMIRI-AMIRI",
+          "name": "AMIRI",
+          "children": [],
+          "search_words": [
+            "AMIRI"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-ARCTERYX",
+      "key": "arcteryx",
+      "name": "Arcteryx",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-ARCTERYX-ARCTERYX",
+          "name": "Arcteryx",
+          "children": [],
+          "search_words": [
+            "Arctery"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-TOUS",
+      "key": "tous",
+      "name": "Tous",
+      "search_words": [],
+      "children": [
+        {
+          "id": "CAT-TOUS-TOUS",
+          "name": "Tous",
+          "children": [],
+          "search_words": [
+            "tous"
+          ],
+          "weight": ""
+        }
+      ]
+    },
+    {
+      "id": "CAT-CANADA-GOOSE",
+      "key": "canada-goose",
+      "name": "Canada Goose",
+      "children": [
+        {
+          "id": "CAT-CANADA-GOOSE-CANADA-GOOSE",
+          "name": "Canada Goose",
+          "children": [],
+          "search_words": [
+            "canada goose_canada&goose"
+          ],
+          "weight": ""
+        }
+      ],
+      "search_words": [],
+      "weight": ""
+    },
+    {
+      "id": "CAT-HUNTER",
+      "key": "hunter",
+      "name": "hunter",
+      "children": [
+        {
+          "id": "CAT-HUNTER-HUNTER",
+          "name": "Hunter",
+          "children": [],
+          "search_words": [
+            "hunter"
+          ],
+          "weight": "2"
+        }
+      ],
+      "search_words": [
+        "hunter"
+      ],
+      "weight": ""
+    },
+    {
+      "id": "CAT-TOMMY",
+      "key": "tommy",
+      "name": "Tommy",
+      "children": [
+        {
+          "id": "CAT-TOMMY-TOMMY",
+          "name": "Tommy",
+          "children": [],
+          "search_words": [
+            "tommy"
+          ],
+          "weight": ""
+        }
+      ],
+      "search_words": [],
+      "weight": ""
+    },
+    {
+      "id": "CAT-CLOTHES",
+      "key": "clothes",
+      "name": "Clothes",
+      "children": [
+        {
+          "id": "CAT-CLOTHES-ALO-YOGA",
+          "name": "Alo Yoga",
+          "children": [
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-HOODIE",
+              "name": "Alo Yoga Hoodie",
+              "children": [],
+              "search_words": [
+                "Alo Yoga Hoodie_alo&hoodie"
+              ],
+              "weight": "0.85"
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-JACKET",
+              "name": "Alo Yoga Jacket",
+              "children": [],
+              "search_words": [
+                "Alo Yoga Jacket_alo&jacket"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-PANTS",
+              "name": "Alo Yoga Pants",
+              "children": [],
+              "search_words": [
+                "Alo Yoga Pants_alo&pant"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-3-PIECE-SET",
+              "name": "ALO 3-Piece Set",
+              "children": [],
+              "search_words": [
+                "ALO 3-Piece Set"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-TANK-TOP",
+              "name": "ALO Yoga Tank Top",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Tank Top"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-SHORTS",
+              "name": "ALO Yoga Shorts",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Shorts_alo&short"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-SKIRT",
+              "name": "ALO Yoga Skirt",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Skirt_alo&skirt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-SHORT-SLEEVE-T-SHIRT",
+              "name": "ALO Short-Sleeve T-Shirt",
+              "children": [],
+              "search_words": [
+                "ALO Short-Sleeve T-Shirt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-BODYSUIT",
+              "name": "ALO Yoga Bodysuit",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Bodysuit"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-DRESS",
+              "name": "ALO Yoga Dress",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Dress_alo&dress"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-VEST",
+              "name": "ALO Vest",
+              "children": [],
+              "search_words": [
+                "ALO Vest"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-YOGA-SET",
+              "name": "ALO Yoga Set",
+              "children": [],
+              "search_words": [
+                "ALO Yoga Set_alo&set"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-HOODIE",
+              "name": "ALO Hoodie",
+              "children": [],
+              "search_words": [
+                "ALO Hoodie_alo&hoodie"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-SPORTS-BRA",
+              "name": "ALO Sports Bra",
+              "children": [],
+              "search_words": [
+                "ALO Sports Bra_alo&bra"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-ONE-PIECE-DRESS",
+              "name": "ALO One-Piece Dress",
+              "children": [],
+              "search_words": [
+                "ALO One-Piece Dress"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-PUFFER-JACKET",
+              "name": "ALO Puffer Jacket",
+              "children": [],
+              "search_words": [
+                "ALO Puffer Jacket"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-PANTS-LEGGINGS",
+              "name": "ALO Pants Leggings",
+              "children": [],
+              "search_words": [
+                "ALO Pants Leggings"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-ALO-YOGA-ALO-LONG-SLEEVE",
+              "name": "ALO Long-Sleeve",
+              "children": [],
+              "search_words": [
+                "ALO Long-Sleeve"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-CLOTHES-LULULEMON",
+          "name": "Lululemon",
+          "children": [
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-HOODIES",
+              "name": "Lululemon Hoodies",
+              "children": [],
+              "search_words": [
+                "Lululemon Hoodies_lulu&hoodie_lululemon&hoodie"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-JACKET",
+              "name": "Lululemon Jacket",
+              "children": [],
+              "search_words": [
+                "Lululemon Jacket_lululemon&jacket"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-GILET-VEST",
+              "name": "lululemon Gilet Vest",
+              "children": [],
+              "search_words": [
+                "lululemon Gilet_lululemon&vest_lululemon&gilet"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-PANTS",
+              "name": "Lululemon Pants",
+              "children": [],
+              "search_words": [
+                "lululemon Pants_lululemon&pant"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-LONG-SLEEVE",
+              "name": "Lululemon Long-Sleeve",
+              "children": [],
+              "search_words": [
+                "Lululemon Long-Sleeve_lululemon&sleeve"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-3-PIECE-SET",
+              "name": "lululemon 3-Piece Set",
+              "children": [],
+              "search_words": [
+                "lululemon 3-Piece Set"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-TANK-TOP",
+              "name": "lululemon Yoga Tank Top",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Tank Top_lulu&tank top"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-SHORTS",
+              "name": "lululemon Yoga Shorts",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Shorts_lulu&short"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-SKIRT",
+              "name": "lululemon Yoga Skirt",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Skirt_lulu&skirt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-SHORT-SLEEVE-T-SHIRT",
+              "name": "Short-Sleeve T-Shirt",
+              "children": [],
+              "search_words": [
+                "Short-Sleeve T-Shirt_lulu&shirt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-BODYSUIT",
+              "name": "lululemon Yoga Bodysuit",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Bodysuit_lulu&bodysuit"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-DRESS",
+              "name": "lululemon Yoga Dress",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Dress_lulu&dress"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-YOGA-SET",
+              "name": "lululemon Yoga Set",
+              "children": [],
+              "search_words": [
+                "lululemon Yoga Set_lulu&set"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-SPORTS-BRA",
+              "name": "lululemon Sports Bra",
+              "children": [],
+              "search_words": [
+                "lululemon Sports Bra_lulu&bra"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-CLOTHES-LULULEMON-LULULEMON-ONE-PIECE-DRESS",
+              "name": "lululemon One-Piece Dress",
+              "children": [],
+              "search_words": [
+                "lululemon One-Piece Dress"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-CLOTHES-DA-CLOTHING",
+          "name": "DA Clothing",
+          "children": [],
+          "search_words": [
+            "da"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-CLOTHES-LACOSTE-JACKET-CLOTHING",
+          "name": "Lacoste Jacket Clothing",
+          "children": [],
+          "search_words": [
+            "lacoste&jacket"
+          ],
+          "weight": ""
+        },
+        {
+          "id": "CAT-CLOTHES-LACOSTE-CLOTHING",
+          "name": "Lacoste Clothing",
+          "children": [],
+          "search_words": [
+            "lacost&clothing"
+          ],
+          "weight": ""
+        }
+      ],
+      "search_words": [],
+      "weight": ""
+    },
+    {
+      "id": "CAT-ACCESSORIES",
+      "key": "accessories",
+      "name": "Accessories",
+      "children": [
+        {
+          "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES",
+          "name": "Sunglasses Glasses",
+          "children": [
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-PORSCHE-SUNGLASSES",
+              "name": "Porsche Sunglasses",
+              "children": [],
+              "search_words": [
+                "Porsche Sunglasses_Porsche&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-FENDI-SUNGLASSES",
+              "name": "fendi Sunglasses",
+              "children": [],
+              "search_words": [
+                "fendi Sunglasses_fendi&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-CHANEL-SUNGLASSES",
+              "name": "chanel Sunglasses",
+              "children": [],
+              "search_words": [
+                "chanel Sunglasses_chanel&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-GUCCI-SUNGLASSES",
+              "name": "gucci Sunglasses",
+              "children": [],
+              "search_words": [
+                "gucci Sunglasses_gucci&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-HERMES-SUNGLASSES",
+              "name": "hermes Sunglasses",
+              "children": [],
+              "search_words": [
+                "hermes Sunglasses_hermes&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-PRADA-SUNGLASSES",
+              "name": "prada Sunglasses",
+              "children": [],
+              "search_words": [
+                "prada Sunglasses_prada&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-LV-SUNGLASSES",
+              "name": "lv Sunglasses",
+              "children": [],
+              "search_words": [
+                "lv Sunglasses_lv&Sunglasses_louis&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-BALENCIAGA-SUNGLASSES",
+              "name": "Balenciaga Sunglasses",
+              "children": [],
+              "search_words": [
+                "Balenciaga Sunglasses_Balenciaga&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-VERSACE-SUNGLASSES",
+              "name": "versace Sunglasses",
+              "children": [],
+              "search_words": [
+                "versace Sunglasses_versace&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-DOLCEAMP-GABBANA-SUNGLASSES",
+              "name": "Dolceamp Gabbana Sunglasses",
+              "children": [],
+              "search_words": [
+                "Dolceamp Gabbana Sunglasses_Dolceamp&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-TOM-FORD-SUNGLASSES",
+              "name": "Tom Ford Sunglasses",
+              "children": [],
+              "search_words": [
+                "Tom Ford Sunglasses_Tom&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-SAINT-LAURENT-YSL-SUNGLASSES",
+              "name": "Saint Laurent YSL Sunglasses",
+              "children": [],
+              "search_words": [
+                "Saint Laurent YSL Sunglasses_Saint&Sunglasses_YSL&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-BURBERRY-SUNGLASSES",
+              "name": "Burberry Sunglasses",
+              "children": [],
+              "search_words": [
+                "Burberry Sunglasses_Burberry&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-CARTIER-SUNGLASSES",
+              "name": "Cartier Sunglasses",
+              "children": [],
+              "search_words": [
+                "Cartier Sunglasses_Cartier&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-DIAO-SUNGLASSES",
+              "name": "DIAO Sunglasses",
+              "children": [],
+              "search_words": [
+                "DIAO Sunglasses_DIAO&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-CELINE-SUNGLASSES",
+              "name": "Celine Sunglasses",
+              "children": [],
+              "search_words": [
+                "Celine Sunglasses_Celine&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-LOEWE-SUNGLASSES",
+              "name": "LOEWE Sunglasses",
+              "children": [],
+              "search_words": [
+                "LOEWE Sunglasses_LOEWE&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-MAYBACH-SUNGLASSES",
+              "name": "Maybach Sunglasses",
+              "children": [],
+              "search_words": [
+                "Maybach Sunglasses_Maybach&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-CHROME-HEARTS-SUNGLASSES",
+              "name": "Chrome Hearts Sunglasses",
+              "children": [],
+              "search_words": [
+                "Chrome Hearts Sunglasses_Chrome&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-DITA-SUNGLASSES",
+              "name": "DITA Sunglasses",
+              "children": [],
+              "search_words": [
+                "DITA Sunglasses_DITA&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-BVLGARI-SUNGLASSES",
+              "name": "BVLGARI Sunglasses",
+              "children": [],
+              "search_words": [
+                "BVLGARI Sunglasses_BVLGARI&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-OFF-WHITE-SUNGLASSES",
+              "name": "Off White Sunglasses",
+              "children": [],
+              "search_words": [
+                "Off White Sunglasses_Off&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-TORY-BURCH-SUNGLASSES",
+              "name": "Tory Burch Sunglasses",
+              "children": [],
+              "search_words": [
+                "Tory Burch Sunglasses_Tory&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-MIU-MIU-SUNGLASSES",
+              "name": "Miu Miu Sunglasses",
+              "children": [],
+              "search_words": [
+                "Miu Miu Sunglasses_Miu&Sunglasses"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-SUNGLASSES-GLASSES-RAY-BAN-SUNGLASSES",
+              "name": "RAY BAN Sunglasses",
+              "children": [],
+              "search_words": [
+                "RAY BAN Sunglasses_RAY&Sunglasses"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-ACCESSORIES-BELT",
+          "name": "Belt",
+          "children": [
+            {
+              "id": "CAT-ACCESSORIES-BELT-DIOR-BELT",
+              "name": "DIOR Belt",
+              "children": [],
+              "search_words": [
+                "DIOR Belt_dior&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-AMIRI-BELT",
+              "name": "AMIRI Belt",
+              "children": [],
+              "search_words": [
+                "AMIRI Belt_amiri&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-BOSS-BELT",
+              "name": "BOSS Belt",
+              "children": [],
+              "search_words": [
+                "BOSS Belt_boss&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-CK-BELT",
+              "name": "CK Belt",
+              "children": [],
+              "search_words": [
+                "CK Belt_ck&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-DIESEL-BELT",
+              "name": "Diesel Belt",
+              "children": [],
+              "search_words": [
+                "Diesel Belt_diesel&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-LEVIS-BELT",
+              "name": "Levis Belt",
+              "children": [],
+              "search_words": [
+                "Levis Belt_levis&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-MCM-BELT",
+              "name": "MCM Belt",
+              "children": [],
+              "search_words": [
+                "MCM Belt_mcm&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-MOSCHINO-BELT",
+              "name": "MOSCHINO Belt",
+              "children": [],
+              "search_words": [
+                "MOSCHINO Belt_moschino&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-TOMMY-HILFIGER-BELT",
+              "name": "TOMMY HILFIGER Belt",
+              "children": [],
+              "search_words": [
+                "TOMMY HILFIGER Belt_tommy&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-DG-BELT",
+              "name": "DG Belt",
+              "children": [],
+              "search_words": [
+                "DG Belt_dg&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-FENDI-BELT",
+              "name": "FENDI Belt",
+              "children": [],
+              "search_words": [
+                "FENDI Belt_fendi&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-GIVENCHY-BELT",
+              "name": "Givenchy Belt",
+              "children": [],
+              "search_words": [
+                "Givenchy Belt_givenchy&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-LOEWE-BELT",
+              "name": "LOEWE Belt",
+              "children": [],
+              "search_words": [
+                "LOEWE Belt_loewe&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-MIUMIU-BELT",
+              "name": "miumiu Belt",
+              "children": [],
+              "search_words": [
+                "miumiu Belt_miu&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-MK-BELT",
+              "name": "MK Belt",
+              "children": [],
+              "search_words": [
+                "MK Belt_mk&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-MONTBLANC-BELT",
+              "name": "Montblanc Belt",
+              "children": [],
+              "search_words": [
+                "Montblanc Belt_montblanc&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-PRADA-BELT",
+              "name": "PRADA Belt",
+              "children": [],
+              "search_words": [
+                "PRADA Belt_prada&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-TB-BELT",
+              "name": "TB Belt",
+              "children": [],
+              "search_words": [
+                "TB Belt_tb&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-VALENTINO-BELT",
+              "name": "Valentino Belt",
+              "children": [],
+              "search_words": [
+                "Valentino Belt_valentino&belt"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-BELT-YSL-BELT",
+              "name": "YSL Belt",
+              "children": [],
+              "search_words": [
+                "YSL Belt_ysl&belt"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        },
+        {
+          "id": "CAT-ACCESSORIES-JERSEY",
+          "name": "Jersey",
+          "children": [
+            {
+              "id": "CAT-ACCESSORIES-JERSEY-FANS-VERSION-JERSEY",
+              "name": "fans version Jersey",
+              "children": [],
+              "search_words": [
+                "fans version Jersey"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-JERSEY-PLAYER-VERSION-JERSEY",
+              "name": "player version Jersey",
+              "children": [],
+              "search_words": [
+                "player version Jersey"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-JERSEY-RETRO-VERSION-JERSEY",
+              "name": "Retro version Jersey",
+              "children": [],
+              "search_words": [
+                "Retro version Jersey"
+              ],
+              "weight": ""
+            },
+            {
+              "id": "CAT-ACCESSORIES-JERSEY-NFL",
+              "name": "NFL",
+              "children": [],
+              "search_words": [
+                "NFL"
+              ],
+              "weight": ""
+            }
+          ],
+          "search_words": [],
+          "weight": ""
+        }
+      ],
+      "search_words": [],
+      "weight": ""
+    }
+  ],
+  "byKey": {
+    "shoes": "CAT-SHOES",
+    "bags": "CAT-BAGS",
+    "ugg": "CAT-UGG",
+    "ralph-lauren": "CAT-RALPH-LAUREN",
+    "balenciaga": "CAT-BALENCIAGA",
+    "gucci": "CAT-GUCCI",
+    "dior": "CAT-DIOR",
+    "louis-vuitton": "CAT-LOUIS-VUITTON",
+    "fila": "CAT-FILA",
+    "eeco": "CAT-EECO",
+    "keen": "CAT-KEEN",
+    "under-armour": "CAT-UNDER-ARMOUR",
+    "celine": "CAT-CELINE",
+    "chanel": "CAT-CHANEL",
+    "hermes": "CAT-HERMES",
+    "burberry": "CAT-BURBERRY",
+    "moncler": "CAT-MONCLER",
+    "lululemon": "CAT-LULULEMON",
+    "miumiu": "CAT-MIUMIU",
+    "boss": "CAT-BOSS",
+    "stussy": "CAT-STUSSY",
+    "ysl": "CAT-YSL",
+    "stone-island": "CAT-STONE-ISLAND",
+    "kolon": "CAT-KOLON",
+    "airpods": "CAT-AIRPODS",
+    "valentino": "CAT-VALENTINO",
+    "fendi": "CAT-FENDI",
+    "jimmy": "CAT-JIMMY",
+    "amiri": "CAT-AMIRI",
+    "arcteryx": "CAT-ARCTERYX",
+    "tous": "CAT-TOUS",
+    "canada-goose": "CAT-CANADA-GOOSE",
+    "hunter": "CAT-HUNTER",
+    "tommy": "CAT-TOMMY",
+    "clothes": "CAT-CLOTHES",
+    "accessories": "CAT-ACCESSORIES"
+  }
+}
